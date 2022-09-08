@@ -1,1 +1,1 @@
-# Reponsitividade
+# Reponsividade
